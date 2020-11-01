@@ -1,0 +1,2 @@
+https://developers.google.com/custom-search/v1/using_rest // for fetching key api
+https://cse.google.com/cse/setup/basic?cx=d3ce873816d658363 // for just tells google which search engine to use & we use entire web and taking Search engine ID
